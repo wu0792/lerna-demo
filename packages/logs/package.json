@@ -1,5 +1,5 @@
 {
-  "name": "logs",
+  "name": "@jmp-cli/logs",
   "version": "1.0.3",
   "description": "logs lib",
   "author": "wu0792 <wu0792@163.com>",

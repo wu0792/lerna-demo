@@ -1,5 +1,5 @@
 {
-  "name": "common",
+  "name": "@jmp-cli/common",
   "version": "1.0.6",
   "description": "common pkg",
   "keywords": [
