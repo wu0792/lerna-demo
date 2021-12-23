@@ -26,5 +26,6 @@
     "logs": "^1.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  }
+  },
+  "gitHead": "0ef34ff3b39eeae4281db63e0d024c16d59d7fcc"
 }

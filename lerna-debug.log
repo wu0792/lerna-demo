@@ -1,0 +1,9 @@
+33 error Error: Command failed with exit code 1: git commit -m v1.0.1
+33 error On branch master
+33 error Your branch is up to date with 'origin/master'.
+33 error
+33 error nothing to commit, working tree clean
+33 error     at makeError (/Users/neilwu/Documents/src/temp/lerna-demo/node_modules/execa/lib/error.js:60:11)
+33 error     at handlePromise (/Users/neilwu/Documents/src/temp/lerna-demo/node_modules/execa/index.js:118:26)
+33 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+33 error     at async Promise.all (index 0)
